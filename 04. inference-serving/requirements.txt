@@ -1,0 +1,4 @@
+dill==0.3.4
+xgboost==1.5.1
+imbalanced-learn==0.8.1
+scipy==1.7.1
